@@ -1,0 +1,404 @@
+[
+    {
+        "question": "What do you do if you have been convicted of a felony as an EMT candidate?",
+        "options": ["Ignore it", "Lie on the application", "Disclose it to the certifying agency", "Quit applying"],
+        "answer": 2,
+        "explanation": "You must disclose any felony to the state EMS office for review."
+    },
+    {
+        "question": "Why are EMRs important?",
+        "options": ["They arrive first", "They provide immediate care", "They assist in patient assessment", "All of the above"],
+        "answer": 3,
+        "explanation": "EMRs provide immediate care and assist in managing the scene."
+    },
+    {
+        "question": "What is the EMS medical director responsible for?",
+        "options": ["Firefighter training", "Medical protocols", "Equipment maintenance", "Driving ambulances"],
+        "answer": 1,
+        "explanation": "The EMS medical director develops and approves medical protocols."
+    },
+    {
+        "question": "What is the ratio of oxygen percentage inhaled vs exhaled?",
+        "options": ["21% in, 16% out", "16% in, 21% out", "30% in, 20% out", "10% in, 5% out"],
+        "answer": 0,
+        "explanation": "Inhaled air contains 21% oxygen, while exhaled air contains 16% oxygen."
+    },
+    {
+        "question": "Where is the sacral spine located?",
+        "options": ["Upper back", "Neck", "Lower back between lumbar and coccyx", "Mid-back"],
+        "answer": 2,
+        "explanation": "The sacral spine is located between the lumbar vertebrae and the coccyx."
+    },
+    {
+        "question": "What is the function of the tibia?",
+        "options": ["Thigh bone", "Kneecap", "Shin bone", "Heel bone"],
+        "answer": 2,
+        "explanation": "The tibia is the shin bone and is the larger bone in the lower leg."
+    },
+    {
+        "question": "What is ventilation?",
+        "options": ["Gas exchange in lungs", "Breathing in and out", "Circulatory process", "Oxygen transport"],
+        "answer": 1,
+        "explanation": "Ventilation is the mechanical process of moving air in and out of the lungs."
+    },
+    {
+        "question": "What is the maximum verified human life expectancy?",
+        "options": ["100 years", "115 years", "122 years", "130 years"],
+        "answer": 2,
+        "explanation": "The longest verified human lifespan is 122 years."
+    },
+    {
+        "question": "Which question should be asked gently during patient assessment?",
+        "options": ["Chief complaint", "Medication history", "Sexual history", "Vital signs"],
+        "answer": 2,
+        "explanation": "Questions about sexual history should be approached gently."
+    },
+    {
+        "question": "What is the power grip when lifting a stretcher?",
+        "options": ["Palms up, grip firm", "Palms down, loose grip", "Fingers only", "Grip with fingertips"],
+        "answer": 0,
+        "explanation": "The power grip involves keeping palms up with a firm grip for better control."
+    }
+]
+[
+    {
+        "question": "What is the first step in scene size-up?",
+        "options": ["Check patient responsiveness", "Assess for safety", "Begin CPR", "Check vital signs"],
+        "answer": 1,
+        "explanation": "The first step is to assess scene safety to avoid further harm."
+    },
+    {
+        "question": "How often should an unstable patient be reassessed?",
+        "options": ["Every 5 minutes", "Every 10 minutes", "Every 15 minutes", "Every 30 minutes"],
+        "answer": 0,
+        "explanation": "Unstable patients should be reassessed every 5 minutes."
+    },
+    {
+        "question": "What is the primary purpose of a stair chair?",
+        "options": ["To carry unconscious patients", "To transport a patient down stairs safely", "To immobilize a patient", "To provide CPR"],
+        "answer": 1,
+        "explanation": "A stair chair is designed to safely transport a patient down stairs."
+    },
+    {
+        "question": "What is the best way to protect yourself from disease transmission?",
+        "options": ["Avoid all patient contact", "Wear PPE", "Use hand sanitizer only", "Stay at least 3 feet away"],
+        "answer": 1,
+        "explanation": "Wearing proper personal protective equipment (PPE) is the best way to prevent disease transmission."
+    },
+    {
+        "question": "What does AED stand for?",
+        "options": ["Advanced Emergency Device", "Automated External Defibrillator", "Automatic Emergency Defibrillator", "Advanced Electronic Device"],
+        "answer": 1,
+        "explanation": "AED stands for Automated External Defibrillator, which delivers shocks to restore heart rhythm."
+    },
+    {
+        "question": "Which chamber of the heart pumps oxygenated blood to the body?",
+        "options": ["Right atrium", "Right ventricle", "Left atrium", "Left ventricle"],
+        "answer": 3,
+        "explanation": "The left ventricle pumps oxygen-rich blood to the body."
+    },
+    {
+        "question": "What is the normal range for an adult respiratory rate?",
+        "options": ["8-12 breaths per minute", "12-20 breaths per minute", "20-28 breaths per minute", "30-40 breaths per minute"],
+        "answer": 1,
+        "explanation": "The normal respiratory rate for an adult is 12-20 breaths per minute."
+    },
+    {
+        "question": "What is the function of the epiglottis?",
+        "options": ["Filter air", "Prevent food from entering the airway", "Aid in digestion", "Regulate oxygen levels"],
+        "answer": 1,
+        "explanation": "The epiglottis prevents food from entering the airway during swallowing."
+    },
+    {
+        "question": "What is the recommended compression-to-ventilation ratio for adult CPR?",
+        "options": ["15:2", "30:2", "10:1", "25:5"],
+        "answer": 1,
+        "explanation": "The correct CPR compression-to-ventilation ratio for adults is 30:2."
+    },
+    {
+        "question": "Which pulse is checked in an unresponsive adult?",
+        "options": ["Radial", "Femoral", "Carotid", "Brachial"],
+        "answer": 2,
+        "explanation": "The carotid pulse is checked in unresponsive adults."
+    }
+]
+[
+    {
+        "question": "How often should a stable patient be reassessed?",
+        "options": ["Every 5 minutes", "Every 10 minutes", "Every 15 minutes", "Every 30 minutes"],
+        "answer": 2,
+        "explanation": "Stable patients should be reassessed every 15 minutes."
+    },
+    {
+        "question": "Which type of consent is assumed for an unconscious patient?",
+        "options": ["Informed", "Implied", "Expressed", "Written"],
+        "answer": 1,
+        "explanation": "Implied consent assumes a patient would agree to treatment if they were conscious."
+    },
+    {
+        "question": "What is the best way to open an airway for a trauma patient?",
+        "options": ["Head-tilt, chin-lift", "Jaw thrust", "Hyperextension", "Neck flexion"],
+        "answer": 1,
+        "explanation": "The jaw-thrust maneuver is used for suspected spinal injuries."
+    },
+    {
+        "question": "Which organ is primarily responsible for filtering waste from blood?",
+        "options": ["Heart", "Liver", "Lungs", "Kidneys"],
+        "answer": 3,
+        "explanation": "The kidneys filter waste products from the blood and produce urine."
+    },
+    {
+        "question": "Which blood vessels carry oxygenated blood away from the heart?",
+        "options": ["Veins", "Capillaries", "Arteries", "Lymph nodes"],
+        "answer": 2,
+        "explanation": "Arteries carry oxygen-rich blood away from the heart."
+    },
+    {
+        "question": "What does SAMPLE stand for in patient assessment?",
+        "options": ["Symptoms, Allergies, Medications, Past history, Last meal, Events leading up", "Signs, Asthma, Meds, Pain level, Last intake, Emergency", "Severity, Angina, Monitoring, Pulse, Lab values, Events", "Shortness of breath, Alcohol, Medical history, Pain, Last meal, Emergency contact"],
+        "answer": 0,
+        "explanation": "SAMPLE is used to gather a patient’s medical history during assessment."
+    },
+    {
+        "question": "What is the primary function of red blood cells?",
+        "options": ["Fight infection", "Clot blood", "Carry oxygen", "Regulate blood pressure"],
+        "answer": 2,
+        "explanation": "Red blood cells transport oxygen throughout the body."
+    },
+    {
+        "question": "What does OPQRST help assess?",
+        "options": ["Airway status", "Level of consciousness", "Pain", "Circulation"],
+        "answer": 2,
+        "explanation": "OPQRST is a mnemonic used to assess pain characteristics."
+    },
+    {
+        "question": "What is the most common airway obstruction in unconscious patients?",
+        "options": ["Blood", "Food", "Tongue", "Secretions"],
+        "answer": 2,
+        "explanation": "The tongue often falls back and blocks the airway in unconscious patients."
+    },
+    {
+        "question": "Which body cavity contains the heart and lungs?",
+        "options": ["Cranial", "Thoracic", "Abdominal", "Pelvic"],
+        "answer": 1,
+        "explanation": "The thoracic cavity houses the heart and lungs."
+    }
+]
+[
+    {
+        "question": "What is the purpose of an oropharyngeal airway (OPA)?",
+        "options": ["Prevent choking", "Maintain an open airway", "Stop bleeding", "Monitor oxygen levels"],
+        "answer": 1,
+        "explanation": "An OPA keeps the airway open by preventing the tongue from blocking it."
+    },
+    {
+        "question": "What is the recommended compression-to-ventilation ratio for adult CPR?",
+        "options": ["15:2", "30:2", "10:1", "25:5"],
+        "answer": 1,
+        "explanation": "The correct CPR compression-to-ventilation ratio for adults is 30:2."
+    },
+    {
+        "question": "Which part of the body does the femur belong to?",
+        "options": ["Arm", "Chest", "Thigh", "Lower leg"],
+        "answer": 2,
+        "explanation": "The femur is the large bone in the thigh."
+    },
+    {
+        "question": "Which pulse is checked in an unresponsive adult?",
+        "options": ["Radial", "Femoral", "Carotid", "Brachial"],
+        "answer": 2,
+        "explanation": "The carotid pulse is checked in unresponsive adults."
+    },
+    {
+        "question": "What is the function of the epiglottis?",
+        "options": ["Filter air", "Prevent food from entering the airway", "Aid in digestion", "Regulate oxygen levels"],
+        "answer": 1,
+        "explanation": "The epiglottis prevents food from entering the airway during swallowing."
+    },
+    {
+        "question": "Which chamber of the heart pumps oxygenated blood to the body?",
+        "options": ["Right atrium", "Right ventricle", "Left atrium", "Left ventricle"],
+        "answer": 3,
+        "explanation": "The left ventricle pumps oxygen-rich blood to the body."
+    },
+    {
+        "question": "What is the normal range for an adult respiratory rate?",
+        "options": ["8-12 breaths per minute", "12-20 breaths per minute", "20-28 breaths per minute", "30-40 breaths per minute"],
+        "answer": 1,
+        "explanation": "The normal respiratory rate for an adult is 12-20 breaths per minute."
+    },
+    {
+        "question": "Which of the following is a priority in treating a patient in shock?",
+        "options": ["Applying oxygen", "Providing fluids", "Keeping them warm", "All of the above"],
+        "answer": 3,
+        "explanation": "Oxygen, fluids, and warmth are all critical in shock treatment."
+    },
+    {
+        "question": "Which body system is responsible for transporting oxygen and nutrients?",
+        "options": ["Respiratory", "Digestive", "Circulatory", "Endocrine"],
+        "answer": 2,
+        "explanation": "The circulatory system transports oxygen and nutrients."
+    },
+    {
+        "question": "Which structure prevents food from entering the trachea?",
+        "options": ["Esophagus", "Diaphragm", "Epiglottis", "Alveoli"],
+        "answer": 2,
+        "explanation": "The epiglottis covers the trachea during swallowing."
+    }
+]
+[
+    {
+        "question": "Which part of the nervous system controls voluntary movements?",
+        "options": ["Autonomic", "Somatic", "Sympathetic", "Parasympathetic"],
+        "answer": 1,
+        "explanation": "The somatic nervous system controls voluntary movements."
+    },
+    {
+        "question": "What is the medical term for low blood sugar?",
+        "options": ["Hyperglycemia", "Hypoglycemia", "Hypertension", "Hypotension"],
+        "answer": 1,
+        "explanation": "Hypoglycemia refers to low blood sugar levels."
+    },
+    {
+        "question": "Which bone is also known as the collarbone?",
+        "options": ["Scapula", "Humerus", "Clavicle", "Sternum"],
+        "answer": 2,
+        "explanation": "The clavicle is the collarbone."
+    },
+    {
+        "question": "What is the primary concern for an unconscious patient?",
+        "options": ["Fractures", "Airway", "Blood pressure", "Temperature"],
+        "answer": 1,
+        "explanation": "Airway management is the top priority for unconscious patients."
+    },
+    {
+        "question": "What is the primary role of white blood cells?",
+        "options": ["Transport oxygen", "Fight infection", "Clot blood", "Regulate blood pressure"],
+        "answer": 1,
+        "explanation": "White blood cells help the body fight infections."
+    },
+    {
+        "question": "What does AVPU stand for in patient assessment?",
+        "options": ["Alert, Verbal, Pain, Unresponsive", "Airway, Ventilation, Pulse, Unconscious", "Assess, Visual, Pulse, Understanding", "Active, Vital, Pupils, Unconscious"],
+        "answer": 0,
+        "explanation": "AVPU is used to assess a patient's level of consciousness."
+    },
+    {
+        "question": "What is the term for a pulse rate below 60 bpm?",
+        "options": ["Bradycardia", "Tachycardia", "Hypertension", "Arrhythmia"],
+        "answer": 0,
+        "explanation": "Bradycardia is a heart rate below 60 bpm."
+    },
+    {
+        "question": "What does the mnemonic DCAP-BTLS help assess?",
+        "options": ["Neurological function", "Skin conditions", "Trauma injuries", "Vital signs"],
+        "answer": 2,
+        "explanation": "DCAP-BTLS is used for trauma assessments."
+    },
+    {
+        "question": "What is the most common cause of cardiac arrest in children?",
+        "options": ["Trauma", "Airway obstruction", "Drowning", "Heart disease"],
+        "answer": 1,
+        "explanation": "Airway obstruction is the leading cause of cardiac arrest in children."
+    },
+    {
+        "question": "What does an NPA (nasopharyngeal airway) help maintain?",
+        "options": ["Circulation", "Airway", "Breathing", "Consciousness"],
+        "answer": 1,
+        "explanation": "An NPA helps maintain an open airway."
+    }
+]
+[
+    {
+        "question": "Which organ produces insulin?",
+        "options": ["Liver", "Pancreas", "Kidneys", "Stomach"],
+        "answer": 1,
+        "explanation": "The pancreas produces insulin to regulate blood sugar."
+    },
+    {
+        "question": "What is a sign of inadequate breathing?",
+        "options": ["Steady pulse", "Silent chest", "Pink skin", "Normal respiratory rate"],
+        "answer": 1,
+        "explanation": "A silent chest is a dangerous sign of inadequate breathing."
+    },
+    {
+        "question": "Which position is best for a patient in shock?",
+        "options": ["Supine", "Prone", "Fowler’s", "Lateral"],
+        "answer": 0,
+        "explanation": "A supine position improves blood flow during shock."
+    },
+    {
+        "question": "Which part of the brain controls basic life functions like breathing?",
+        "options": ["Cerebrum", "Cerebellum", "Brainstem", "Hypothalamus"],
+        "answer": 2,
+        "explanation": "The brainstem regulates vital functions such as breathing and heart rate."
+    },
+    {
+        "question": "Which symptom suggests a stroke?",
+        "options": ["Chest pain", "Slurred speech", "Abdominal pain", "High fever"],
+        "answer": 1,
+        "explanation": "Slurred speech is a common sign of a stroke."
+    },
+    {
+        "question": "What is the leading cause of death in trauma patients?",
+        "options": ["Internal bleeding", "Head injury", "Infection", "Spinal injury"],
+        "answer": 1,
+        "explanation": "Head injuries are a major cause of trauma-related deaths."
+    },
+    {
+        "question": "What is the purpose of an AED?",
+        "options": ["Monitor heart rate", "Defibrillate the heart", "Administer oxygen", "Stop bleeding"],
+        "answer": 1,
+        "explanation": "An AED delivers an electric shock to restore heart rhythm."
+    },
+    {
+        "question": "Which condition results from severe blood loss?",
+        "options": ["Hypoxia", "Sepsis", "Hypovolemic shock", "Stroke"],
+        "answer": 2,
+        "explanation": "Hypovolemic shock occurs due to severe blood loss."
+    },
+    {
+        "question": "Which symptom indicates a severe allergic reaction (anaphylaxis)?",
+        "options": ["Itchy rash", "Swollen tongue", "Runny nose", "Mild cough"],
+        "answer": 1,
+        "explanation": "Swelling of the tongue can obstruct breathing and is a sign of anaphylaxis."
+    },
+    {
+        "question": "What is the primary function of platelets?",
+        "options": ["Fight infection", "Transport oxygen", "Clot blood", "Regulate blood sugar"],
+        "answer": 2,
+        "explanation": "Platelets help with blood clotting to stop bleeding."
+    }
+]
+[
+    {
+        "question": "What is the most common cause of seizures in children?",
+        "options": ["Stroke", "Fever", "Dehydration", "Heart disease"],
+        "answer": 1,
+        "explanation": "Febrile seizures occur in children due to high fever."
+    },
+    {
+        "question": "What is the function of the diaphragm?",
+        "options": ["Regulate blood pressure", "Assist in breathing", "Pump blood", "Filter toxins"],
+        "answer": 1,
+        "explanation": "The diaphragm contracts and relaxes to facilitate breathing."
+    },
+    {
+        "question": "What should you do first when treating a burn victim?",
+        "options": ["Apply ointment", "Cool the burn with water", "Cover with a blanket", "Give pain medication"],
+        "answer": 1,
+        "explanation": "Cooling a burn helps stop further tissue damage."
+    },
+    {
+        "question": "Which type of bleeding is bright red and spurting?",
+        "options": ["Capillary", "Venous", "Arterial", "Internal"],
+        "answer": 2,
+        "explanation": "Arterial bleeding is bright red and spurting due to high pressure."
+    },
+    {
+        "question": "Which pulse site is used for infants during CPR?",
+        "options": ["Carotid", "Femoral", "Brachial", "Radial"],
+        "answer": 2,
+        "explanation": "The brachial pulse is used to assess circulation in infants."
+    }
+]
