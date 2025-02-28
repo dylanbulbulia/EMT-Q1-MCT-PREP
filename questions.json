@@ -59,8 +59,8 @@
         "answer": 0,
         "explanation": "The power grip involves keeping palms up with a firm grip for better control."
     }
-]
-[
+
+
     {
         "question": "What is the first step in scene size-up?",
         "options": ["Check patient responsiveness", "Assess for safety", "Begin CPR", "Check vital signs"],
@@ -121,8 +121,8 @@
         "answer": 2,
         "explanation": "The carotid pulse is checked in unresponsive adults."
     }
-]
-[
+
+
     {
         "question": "How often should a stable patient be reassessed?",
         "options": ["Every 5 minutes", "Every 10 minutes", "Every 15 minutes", "Every 30 minutes"],
@@ -183,8 +183,8 @@
         "answer": 1,
         "explanation": "The thoracic cavity houses the heart and lungs."
     }
-]
-[
+
+
     {
         "question": "What is the purpose of an oropharyngeal airway (OPA)?",
         "options": ["Prevent choking", "Maintain an open airway", "Stop bleeding", "Monitor oxygen levels"],
@@ -245,8 +245,8 @@
         "answer": 2,
         "explanation": "The epiglottis covers the trachea during swallowing."
     }
-]
-[
+
+
     {
         "question": "Which part of the nervous system controls voluntary movements?",
         "options": ["Autonomic", "Somatic", "Sympathetic", "Parasympathetic"],
@@ -307,8 +307,8 @@
         "answer": 1,
         "explanation": "An NPA helps maintain an open airway."
     }
-]
-[
+
+
     {
         "question": "Which organ produces insulin?",
         "options": ["Liver", "Pancreas", "Kidneys", "Stomach"],
@@ -369,8 +369,8 @@
         "answer": 2,
         "explanation": "Platelets help with blood clotting to stop bleeding."
     }
-]
-[
+
+
     {
         "question": "What is the most common cause of seizures in children?",
         "options": ["Stroke", "Fever", "Dehydration", "Heart disease"],
